@@ -23,10 +23,6 @@ function Header() {
             <div className="hidden lg:flex items-center gap-8">
 
             <NavBar />
-
-            <Link href='/contact'>
-                <Button> Hire Me</Button>
-            </Link>
             </div>
             
             <div className="lg:hidden">

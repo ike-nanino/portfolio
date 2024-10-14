@@ -7,7 +7,7 @@ const socials = [
         icon: <FaGithub />, path: 'https://github.com/ike-nanino?tab=repositories'
     },
     {
-        icon: <FaLinkedin />, path: ''
+        icon: <FaLinkedin />, path: 'https://gh.linkedin.com/in/isaac-semanu-5373332b4'
     },
 ];
 

@@ -75,7 +75,7 @@ const projects = [
     num: '04',
     category: 'Fullstack',
     title: 'Portfolio',
-    description: 'A a healthcare platform that streamlines patient registration, appointment scheduling, and medical records. Appwrite for backend',
+    description: 'A healthcare platform that streamlines patient registration, appointment scheduling, and medical records. Appwrite for backend',
    stack: [
     {
       name: 'Next.js'
@@ -178,7 +178,7 @@ function Work() {
               {projects.map((project, index) => {
                 return (
                   <SwiperSlide key={index} className='w-full'>
-                    <div className='h-[460px] relative group flex justify-center items-center bg-pink-50/20'>
+                    <div className='h-[460px] relative group flex justify-center items-center'>
 
                   
 
@@ -186,7 +186,7 @@ function Work() {
                       <Image
                       src={project.image}
                       fill
-                      className='object-cover'
+                      className='object-contain xl:object-cover'
                       alt='Projects'
                       />
                     </div>
