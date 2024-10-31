@@ -101,7 +101,7 @@ function Contact() {
                     <SelectLabel>Select a Service</SelectLabel>
                     <SelectItem value='Website Development'>Website Development</SelectItem>
                     <SelectItem value='UI/UX Design'>UI/UX Design</SelectItem>
-                    <SelectItem value='Logo Design'>Logo Design</SelectItem>
+                    <SelectItem value='Design'>Design</SelectItem>
                     <SelectItem value='Mobile App Development'>Mobile App Development</SelectItem>
                   </SelectGroup>
                 </SelectContent>

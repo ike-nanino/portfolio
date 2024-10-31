@@ -15,8 +15,8 @@ const services = [
   },
   {
     num: '02',
-    title: 'Logo Design',
-    description: 'Crafting memorable logos that embody a brand’s core values and vision, utilizing strategic color choices and typography to leave a lasting impact. With a focus on versatility, each logo design is created to be adaptable across various mediums and scalable for both digital and print use, offering a strong and cohesive brand presence.',
+    title: 'Design',
+    description: 'Offering a wide range of design services from logos to flyers and comprehensive brand identity packages. I focus on creating visually compelling and memorable designs that convey brand values and resonate with the target audience. With attention to color theory, typography, and versatility, each design is adaptable across digital and print mediums to maintain a cohesive brand presence across platforms.',
     href: '/contact'
   },
   {
