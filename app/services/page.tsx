@@ -16,7 +16,7 @@ const services = [
   {
     num: '02',
     title: 'Design',
-    description: 'Offering a wide range of design services from logos to flyers and comprehensive brand identity packages. I focus on creating visually compelling and memorable designs that convey brand values and resonate with the target audience. With attention to color theory, typography, and versatility, each design is adaptable across digital and print mediums to maintain a cohesive brand presence across platforms.',
+    description: 'Offering a wide range of design services and comprehensive brand identity packages. I focus on creating visually compelling designs that convey brand values and resonate with the target audience. With attention to color theory, typography, and versatility, each design is adaptable across all mediums.',
     href: '/contact'
   },
   {
@@ -28,7 +28,7 @@ const services = [
   {
     num: '04',
     title: 'Mobile App Development',
-    description: 'Developing apps with a user-first approach for iOS, Android, and cross-platform use, ensuring smooth, optimized performance across devices. From intuitive mobile UI/UX to performance optimization, each app is built to deliver a seamless, engaging experience with efficient functionality and minimal lag, tailored for today’s mobile-first users.',
+    description: 'Developing apps with a user-first approach for iOS, Android, and cross-platform use, ensuring smooth, optimized performance across devices. From intuitive mobile UI/UX to performance optimization, each app is built to deliver a seamless, engaging experience with efficient functionality and minimal lag, tailored for today’s users.',
     href: '/contact'
   },
 ];

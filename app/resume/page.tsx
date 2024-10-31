@@ -138,6 +138,8 @@ function Resume() {
                             <div className='text-5xl group-hover:text-accent transition-all duration-300'> {skill.icon} </div>
 
                           </TooltipTrigger>
+
+                          <p className='text-white/60 text-center mt-2'> {skill.name} </p>
                           <TooltipContent>
                           <p> {skill.name}</p>
                         </TooltipContent>
