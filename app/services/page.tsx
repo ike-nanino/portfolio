@@ -10,25 +10,25 @@ const services = [
   {
     num: '01',
     title: 'Web Development',
-    description: '',
+    description: 'From concept to deployment, offering complete web solutions that balance aesthetics with performance. Specializing in responsive design and SEO-friendly practices, I deliver websites that are visually engaging, fast-loading, and optimized for both users and search engines.',
     href: '/contact'
   },
   {
     num: '02',
     title: 'Logo Design',
-    description: '',
+    description: 'Crafting memorable logos that embody a brand’s core values and vision, utilizing strategic color choices and typography to leave a lasting impact. With a focus on versatility, each logo design is created to be adaptable across various mediums and scalable for both digital and print use, offering a strong and cohesive brand presence.',
     href: '/contact'
   },
   {
     num: '03',
     title: 'UI/UX Design',
-    description: '',
+    description: 'I focus on creating intuitive, user-friendly designs that enhance the user journey from start to finish. Through detailed research, wireframing, and iterative usability testing, I design interfaces that are both functional and visually appealing, with a commitment to accessibility and seamless user interaction on every screen.',
     href: '/contact'
   },
   {
     num: '04',
     title: 'Mobile App Development',
-    description: '',
+    description: 'Developing apps with a user-first approach for iOS, Android, and cross-platform use, ensuring smooth, optimized performance across devices. From intuitive mobile UI/UX to performance optimization, each app is built to deliver a seamless, engaging experience with efficient functionality and minimal lag, tailored for today’s mobile-first users.',
     href: '/contact'
   },
 ];
