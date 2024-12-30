@@ -5,6 +5,7 @@ import type { Viewport } from 'next'
 import Header from "@/components/Header";
 import PageTransition from "@/components/PageTransition";
 import StairTransition from "@/components/StairTransition";
+import { Analytics } from '@vercel/analytics/next';
 
 const leagueSpartan = League_Spartan({ 
   subsets: ["latin"],
@@ -38,6 +39,8 @@ export default function RootLayout({
         <PageTransition>
         {children}
         </PageTransition>
+
+        <Analytics />
         
       </body>
     </html>
