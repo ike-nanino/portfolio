@@ -24,7 +24,7 @@ function Photo() {
         >
             <div className="w-[298px] h-[298px] xl:w-[360px] xl:h-[360px] absolute">
                 <Image
-                 src='/assets/images/isaac1.png'
+                 src='/assets/images/isaac3.png'
                  alt="Software Developer"
                  priority
                  quality={100}
