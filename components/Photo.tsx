@@ -22,7 +22,7 @@ function Photo() {
            transition: { delay: 2.4, duration: 0.4, ease: 'easeInOut' } 
          }}
         >
-            <div className="w-[298px] h-[298px] xl:w-[360px] xl:h-[360px] absolute">
+            <div className="w-[300px] h-[300px] xl:w-[360px] xl:h-[360px] absolute">
                 <Image
                  src='/assets/images/isaac3.png'
                  alt="Software Developer"

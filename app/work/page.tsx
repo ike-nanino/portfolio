@@ -73,8 +73,28 @@ const projects = [
   },
   {
     num: '04',
+    category: 'Frontend',
+    title: 'LegalEcho',
+    description: 'A sleek, Tailwind CSS-powered website for a law firm, offering a polished user experience. Includes a contact form for client inquiries, ensuring easy communication. Optimized for responsiveness and accessibility.',
+   stack: [
+    {
+      name: 'Next.js'
+    },
+    {
+      name: 'Typescript'
+    },
+    {
+      name: 'Tailwind'
+    },
+   ],
+   image: '/assets/images/legalecho.png',
+   github: 'https://github.com/ike-nanino/legalecho',
+   live: 'https://legalecho.vercel.app/'
+  },
+  {
+    num: '05',
     category: 'Fullstack',
-    title: 'Portfolio',
+    title: 'Medical Care',
     description: 'A healthcare platform that streamlines patient registration, appointment scheduling, and medical records. Appwrite for backend',
    stack: [
     {
