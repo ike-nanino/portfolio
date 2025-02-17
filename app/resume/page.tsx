@@ -25,7 +25,7 @@ const about = {
   title: 'About me',
   description: `Hello, I’m Isaac Semanu, a passionate and results-driven Frontend Developer from Accra, Ghana. With over 3 years of experience in front-end technologies like HTML, CSS, and JavaScript, alongside 2+ years specializing in React.js and more than a year working with Next.js and React Native, I’ve honed my expertise in building dynamic and efficient web applications.
 
-I have a deep understanding of modern frameworks, including React, Next.js, and Webflow, and I consistently seek to craft innovative solutions that elevate user experience. My dedication to web development is complemented by a creative flair for UI/UX design and complete brand identity and visual communication, utilizing industry-leading tools such as Figma and Adobe Photoshop.
+I have a deep understanding of modern frameworks, including React, Next.js and Webflow, and I consistently seek to craft innovative solutions that elevate user experience. My dedication to web development is complemented by a creative flair for UI/UX design and complete brand identity and visual communication, utilizing industry-leading tools such as Figma and Adobe Photoshop.
 
 Beyond coding, I’m deeply interested in continuous learning and personal growth. You’ll often find me traveling, listening to podcasts, or staying active through regular workouts.
 
